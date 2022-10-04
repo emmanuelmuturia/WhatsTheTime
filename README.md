@@ -1,5 +1,5 @@
 # WhatsTheTime
-An original implementation of the concepts learned in Chapter 8 of Head Start First Android (Kotlin)
+An original implementation of Navigation UI based on Head Start First Android (Kotlin)
 
 # Concepts Implemented
 1. Toolbar
